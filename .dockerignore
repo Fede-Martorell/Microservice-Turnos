@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.env*
+!.env.example
+.local-postgres
+supabase/.local
+supabase-contra.txt
+test-results
+playwright-report
+coverage
+backups
+deliverables
+*.log
+*.tsbuildinfo

@@ -1,0 +1,18 @@
+[
+  {
+    "file": "01-resumen.png",
+    "alt": "Presentación de Reservas, un SaaS para negocios con turnos, con una captura de su resumen y estadísticas. Datos de demostración."
+  },
+  {
+    "file": "02-onboarding.png",
+    "alt": "Puesta en marcha con cuatro controles: profesional, servicio asignado, horarios del negocio y coincidencia de horarios. Datos de demostración."
+  },
+  {
+    "file": "03-reserva-publica.png",
+    "alt": "Formulario público de reserva con selección de profesional, fecha y horario, datos del cliente y política de cancelación. Datos de demostración."
+  },
+  {
+    "file": "04-fidelizacion.png",
+    "alt": "Tarjeta de fidelización en móvil con saldo de puntos y una recompensa disponible. Función opcional por negocio. Datos de demostración."
+  }
+]
